@@ -93,4 +93,4 @@ Medium : https://royallresearchers/medium.com
 Quora : https://royallresearchers.quora.com
 
 
-										Thank You
+				  			Thank You
