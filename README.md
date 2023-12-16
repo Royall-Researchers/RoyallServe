@@ -19,7 +19,6 @@ This Tool Works Like Apache WebServer
    
     git clone https://github.com/Royall-Researchers/RoyallServe
     cd RoyallServe
-    pip install -r requirements.txt
 
 2. **Run This Script:**
 
