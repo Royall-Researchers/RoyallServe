@@ -1,7 +1,7 @@
-# RoyallServe Using Python
+# Web-Server Using Python
 The Given Python Script is Used for Web Server
 
-# RoyallServe
+# Web-Server
 BY Royall-Researchers
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -17,19 +17,19 @@ This Tool Works Like Apache WebServer
 
    ```bash
    
-    git clone https://github.com/Royall-Researchers/RoyallServe
-    cd RoyallServe
+    git clone https://github.com/Royall-Researchers/Web-Server.git
+    cd Web-Server
 
 2. **Run This Script:**
 
    ```bash
-   python RoyallServe.py
+   python Web-Server.py
 
 3. **Output will Looks Like**
 
    ```bash
 
-        RoyallServe is made by
+        Web-Server is made by
     ____                   _ _ 
    |  _ \ ___  _   _  __ _| | |
    | |_) / _ \| | | |/ _` | | |
