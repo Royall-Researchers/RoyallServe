@@ -20,16 +20,7 @@ RoyallServe is made by
    |_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/
  
 
-        	[+]This Tool is Created by Royall Researchers 
-	        [+]This Tool is only for Educational Purpose 
-                [+]no support for illegal or Un Ethical Activities 
-                [+]You can Learn More From me 
-                [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-                [+]Blog : https://royallresearchers.blogspot.com 
-                [+]Medium : https://royallresearchers.medium.com
-                [+]Quora : https://royallresearchers.quora.com 
-
-RoyallServe Service Started
+Web-Server has been Started
 default port is 8080
 default directory is /var/www/html/
 open url default = http://localhost:8080/ or http://127.0.0.1/8080
