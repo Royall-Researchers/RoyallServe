@@ -6,7 +6,7 @@ import subprocess
 # Set the port number you want to use
 port = 8080
 print ("""
-RoyallServe is made by
+Web-Server is made by
     ____                   _ _ 
    |  _ \ ___  _   _  __ _| | |
    | |_) / _ \| | | |/ _` | | |
